@@ -1,3 +1,2 @@
 -  Hi, I’m 0binna 
--  I’m interested in technology 
 -  I’m currently learning python
