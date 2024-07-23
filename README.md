@@ -1,2 +1,1 @@
--  Hi, I’m 0binna 
--  I’m currently learning python
+
